@@ -1,46 +1,22 @@
-{"60_lb_concrete_mix": "60-lb_concrete_mix",
- "80_lb_concrete_mix": "80-lb_concrete_mix",
- "5000_plus_80_lb_concrete_mix": "5000_plus_80-lb_concrete_mix",
-
-
- "sande_plywood_common_3/4_in_x_2_ft_x_4_ft": "sande_plywood_3/4-in_2-ft_4-ft",
- "18mm_sande_plywood_3/4_in_category_x_4_ft_x_8_ft_actual_0.709_in_x_48_in_x_96_in": "18-mm_sande_plywood_3/4-in_4-ft_8-ft_0.709-in",
- "3/4_in_x_2_ft_x_2_ft_purebond_red_oak_plywood_project_panel_free_custom_cut_available":"3/4-in_2-ft_2-ft_red_oak_plywood_project_panel",
- "sande_plywood_common_3/4_in_x_2_ft_x_4_ft_actual_0.709_in_x_23.75_in_x_47.75_in": "sande_plywood_3/4-in_2-ft_4-ft_0.709-in_23.75-in_47.75-in",
- "23/32_in_x_4_ft_x_8_ft_bc_sanded_pine_plywood": "23/32-in_4-ft_8-ft_sanded_pine_plywood",
-
- "0.5_in_x_10_ft_copper_type_l_pipe": "0.5-in_10-ft_copper_pipe",
- "1/2_in_x_10_ft_copper_type_l_pipe": "0.5-in_10-ft_copper_pipe",
-
-
- "0.5_in_x_10_ft_#4_rebar": "0.5-in_10-ft_rebar",
- "1/2_in_x_10_ft_#4_rebar": "0.5-in_10-ft_rebar",
-
- "7/16_in_4_ft_x_8_ft_zip_osb_wall_sheathing": "7/16-in_4-ft_8-ft_wall_sheathing",
- "osb_7/16_in_sheathing_panel_application_as_4_ft_x_8_ft.": " 7/16-in_4-ft_8-ft_wall_sheathing",
-
- "r-13_kraft_faced_fiberglass_insulation_batt_23_in_x_93_in_10-bags": "fiberglass_insulation_23-in_93-in_10bags ",
-"r-13_ecobatt_kraft_faced_fiberglass_insulation_batt_3-1/2_in_x_23_in_x_93_in.": "ecobatt_kraft_fiberglass_insulation_3-1/2-in_23-in_93-in",
- "r-13_kraft_faced_fiberglass_insulation_batt_23_in_x_7.75_ft": "fiberglass_insulation_23-in_7.75-ft",
-
- "0.5_in_x_4_ft_x_12_ft_ultralight_drywall": "0.5-in_4-ft_12-ft_ultralight_drywall",
- "1/2_in_x_4_ft_x_12_ft_ultralight_drywall": "0.5-in_4-ft_12-ft_ultralight_drywall",
-
- "performance_platinum_50_gal_tall_12_year_40000": "platinum_50-gal_tall_12-year_40000",
- "performance_platinum_50_gal_tall_12_year_40000_btu_natural_gas_tank_water_heater": "platinum_50-gal_tall_12-year_40000",
-
- "3/4_in_x_10_ft_electric_metallic_tube_emt_conduit": "3/4-in_10-ft_electric_metallic_tube_emt_conduit",
- "3/4_in_x_10_ft_electric_metallic_tube_(emt)_conduit": "3/4-in_10-ft_electric_metallic_tube_emt_conduit",
-
- "250_ft_14/3_solid_romex_sim_pull_cu_nm-b_w/g_wire": "250-ft_14/3_solid_romex_nm-b_wire",
- "250_ft_14/3_solid_romex_simpull_cu_nm-b_w/g_wire": "250-ft_14/3_solid_romex_nm-b_wire",
-
-
- "16_in_x_8_in_x_8_in_normal_weight_concrete_block_regular": "16-in_8-in_8-in_concrete_block_regular",
- "16_in_x_8_in_x_8_in_concrete_hw_std_block": "16-in_8-in_8-in_concrete_hw-std_block_regular",
- "8_in_x_8_in_x_16_in_concrete_block": "8-in_8-in_16-in_concrete_block",
-
- "6_in_x_5_ft_round_metal_duct_pipe": "6-in_5-ft_round_metal_duct_pipe",
-
- "high_strength_lite_gypsum_board_1/2_in_x_4_ft_x_8_ft": "gypsum_board_1/2-in_4-ft_8-ft"
- }
+{
+    "60 lb. Concrete Mix": "60-lb_concrete_mix",
+    "80 lb. Concrete Mix": "80-lb_concrete_mix",
+    "5000 Plus 80 lb. Concrete Mix": "5000_plus_80-lb_concrete_mix",
+    "8 in. x 8 in. x 16 in. Concrete Block": "8-in_8-in_16-in_concrete_block",
+    "16 in. x 8 in. x 8 in. Normal Weight Concrete Block Regular": "16-in_8-in_8-in_concrete_block_regular",
+    "16 in. x 8 in. x 8 in. Concrete HW STD Block": "16-in_8-in_8-in_concrete_hw-std_block_regular",
+    "1/2 in. x 4 ft. x 12 ft. UltraLight Drywall": "0.5-in_4-ft_12-ft_ultralight_drywall",
+    "High Strength LITE Gypsum Board 1/2 in. x 4 ft. x 8 ft.": "gypsum_board_1/2-in_4-ft_8-ft",
+    "R-13 Kraft Faced Fiberglass Insulation Batt 23 in. x 93 in.": "fiberglass_insulation_23-in_93-in_10bags",
+    "23/32 in. x 4 ft. x 8 ft. BC Sanded Pine Plywood": "23/32-in_4-ft_8-ft_sanded_pine_plywood",
+    "18mm - Sande Plywood ( 3/4 in. Category x 4 ft. x 8 ft.; Actual: 0.709 in. x 48 in. x 96 in.)": "18-mm_sande_plywood_3/4-in_4-ft_8-ft_0.709-in",
+    "3/4 in. x 2 ft. x 2 ft. PureBond Red Oak Plywood Project Panel (Free Custom Cut Available)": "3/4-in_2-ft_2-ft_red_oak_plywood_project_panel",
+    "OSB 7/16 Application as 4ft. X 8 ft. Sheathing Panel": "7/16-in_4-ft_8-ft_wall_sheathing",
+    "3/4 in. x 10 ft. Rigid Metal Conduit": "3/4-in_10-ft_electric_metallic_tube_emt_conduit",
+    "3/4 in. x 2 ft. x 4 ft. Sande Plywood (Actual: 0.709 in. x 23.75 in. x 47.75 in.) Project Panel": "sande_plywood_3/4-in_2-ft_4-ft_0.709-in_23.75-in_47.75-in",
+    "Performance Platinum 50 Gal. Tall 12 Year 40,000 BTU Natural Gas Tank Water Heater": "platinum_50-gal_tall_12-year_40000",
+    "6 in. x 5 ft. Round Metal Duct Pipe": "6-in_5-ft_round_metal_duct_pipe",
+    "1/2 in. x 10 ft. Copper Soft Type-L Coil Pipe (5/8 in. O.D.)": "0.5-in_10-ft_copper_pipe",
+    "250 ft. 14/3 Solid Romex SIMpull CU NM-B W/G Wire": "250-ft_14/3_solid_romex_nm-b_wire",
+    "1/2 in. x 10 ft. #4 Rebar": "0.5-in_10-ft_rebar"
+}
