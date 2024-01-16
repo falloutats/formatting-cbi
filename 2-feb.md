@@ -10,7 +10,7 @@ Data is primarily gathered using Azure Functions. In instances where APIs are to
 
 ### Data Management
 
-- We use Databricks Workspace for managing and shaping the collected data to align with business relevance, following Microsoft's Madeleine system approach.
+- We use Databricks Workspace for managing and shaping the collected data to align with business relevance, following Microsoft's Madeleine system approach. [https://learn.microsoft.com/en-us/azure/databricks/lakehouse/medallion]
 
 - Our focus is on building indices and conducting experiments on the dataset to extract meaningful insights. The centralized workspace facilitates collaboration, allowing analysts to work in their preferred languages: SQL, R, Python, or Scala.
 
