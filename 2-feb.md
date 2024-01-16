@@ -6,7 +6,9 @@ Data is primarily gathered using Azure Functions. In instances where APIs are to
 
 - For manual data collection, we employ Azure Functions with blob triggers. Whenever the data collection team adds new information to a blob container, the function evaluates its uniqueness and integrates it with the main SQL-hosted data.
 
-# Data Management
+# DataBricks
+
+### Data Management
 
 - We use Databricks Workspace for managing and shaping the collected data to align with business relevance, following Microsoft's Madeleine system approach.
 
